@@ -1,10 +1,10 @@
 import React from "react";
 
-function WelcomePage() {
+function MainPage() {
     return (
-        <h1>Welcome to the Mood Playlist Generator</h1>
+        <h1>Welcome to the Mood Try Generator</h1>
     );
 }
 
-export default WelcomePage;
+export default MainPage;
 
