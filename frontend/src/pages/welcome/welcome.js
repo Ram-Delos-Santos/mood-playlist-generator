@@ -16,6 +16,14 @@ function WelcomePage() {
                 <h1 class='welcome-title'>Welcome to the Mood Playlist Generator</h1>
                 <p class='welcome-tagline'>See what music suits your mood!</p>
                 <button onClick={handleGetStarted} class='welcome-button'>Get Started</button>
+                <div class='equalizer'>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
             </div>
             <div class='welcome-footer'>
                 <p class='welcome-footer-text'>Created by Ram Jesler B. Delos Santos</p>
