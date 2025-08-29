@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #000000, #002800);
+    font-family: 'JetBrainsMono Nerd Font', monospace;
+    color: blanchedalmond;
+}
